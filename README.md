@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xuan Hong
-- 👀 I’m interested in doing some investigative stuff
+- 👀 I’m interested in doing some sus stuff
 - 🌱 I’m currently learning Python for cryptography
 
 
