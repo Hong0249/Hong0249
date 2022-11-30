@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xuan Hong
 - 👀 I’m interested in doing some sus stuff :monocle_face:
-- 🌱 I’m currently learning Python for cryptography
+- 🌱 I’m currently learning Python for AI as well as hacking sus :suspect:
 
 
 <!---
