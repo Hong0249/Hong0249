@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Xuan Hong
 - 👀 I’m interested in doing some fascinating stuff :monocle_face:
-- 🏫 A bachelor student of computer engineering in UTeM 
-- 🌱 I’m currently learning tons of skills instead of mastering them :suspect:
-
+- 🏫 A bachelor student of computer engineering in UTeM 🤞
+- 🌱 I’m currently learning lots of skills instead of mastering them 🫥
 
 <!---
 - 💞️ I’m looking to collaborate on 
