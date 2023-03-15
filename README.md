@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Xuan Hong
-- 👀 I’m interested in doing some fascinating stuff :monocle_face:
+- 👋 Hi, I’m Xuan Hong aka YAK
+- 👀 I’m interested in doing some fascinating stuff 🧐
 - 🏫 A bachelor student of computer engineering in UTeM 🤞
 - 🌱 I’m currently learning lots of skills instead of mastering them 🫥
-
+- 
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
