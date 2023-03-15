@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Xuan Hong
-- 👀 I’m interested in doing some sus stuff :monocle_face:
-- 🌱 I’m currently learning Python for AI as well as hacking sus :suspect:
+- 👀 I’m interested in doing some fascinating stuff :monocle_face:
+- 🏫 A bachelor student of computer engineering in UTeM 
+- 🌱 I’m currently learning tons of skills instead of mastering them :suspect:
 
 
 <!---
